@@ -1,0 +1,6 @@
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\bin\Debug\DataStructureMatrix.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\bin\Debug\DataStructureMatrix.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\bin\Debug\DataStructureMatrix.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\obj\Debug\DataStructureMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\obj\Debug\DataStructureMatrix.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureMatrix\obj\Debug\DataStructureMatrix.pdb

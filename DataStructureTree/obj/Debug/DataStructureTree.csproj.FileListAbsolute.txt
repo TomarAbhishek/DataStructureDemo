@@ -1,0 +1,6 @@
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\bin\Debug\DataStructureTree.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\bin\Debug\DataStructureTree.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\bin\Debug\DataStructureTree.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\obj\Debug\DataStructureTree.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\obj\Debug\DataStructureTree.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureTree\obj\Debug\DataStructureTree.pdb
