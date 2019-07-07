@@ -5,3 +5,10 @@ C:\Users\Abhishek Tomar\source\repos\DataStructureArray\AdvanceDataStructure\obj
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.csproj.CoreCompileInputs.cache
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.exe
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\bin\Debug\AdvanceDataStructure.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\bin\Debug\AdvanceDataStructure.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\bin\Debug\AdvanceDataStructure.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.csprojAssemblyReference.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\AdvanceDataStructure\obj\Debug\AdvanceDataStructure.pdb

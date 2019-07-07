@@ -5,3 +5,10 @@ C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureGraph\obj\D
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureGraph\obj\Debug\DataStructureGraph.csproj.CoreCompileInputs.cache
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureGraph\obj\Debug\DataStructureGraph.exe
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureGraph\obj\Debug\DataStructureGraph.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\bin\Debug\DataStructureGraph.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\bin\Debug\DataStructureGraph.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\bin\Debug\DataStructureGraph.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\obj\Debug\DataStructureGraph.csprojAssemblyReference.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\obj\Debug\DataStructureGraph.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\obj\Debug\DataStructureGraph.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureGraph\obj\Debug\DataStructureGraph.pdb

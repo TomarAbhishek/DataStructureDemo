@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array_Rotation.cs" />
     <Compile Include="FindMissingNumber.cs" />
     <Compile Include="MinDistanceBw2Number.cs" />
     <Compile Include="Program.cs" />

@@ -5,3 +5,10 @@ C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureArray\obj\D
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureArray\obj\Debug\DataStructureArray.csproj.CoreCompileInputs.cache
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureArray\obj\Debug\DataStructureArray.exe
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureArray\obj\Debug\DataStructureArray.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\bin\Debug\DataStructureArray.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\bin\Debug\DataStructureArray.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\bin\Debug\DataStructureArray.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\obj\Debug\DataStructureArray.csprojAssemblyReference.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\obj\Debug\DataStructureArray.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\obj\Debug\DataStructureArray.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureArray\obj\Debug\DataStructureArray.pdb

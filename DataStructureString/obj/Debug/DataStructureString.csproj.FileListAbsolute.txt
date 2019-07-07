@@ -4,3 +4,9 @@ C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureString\bin\
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureString\obj\Debug\DataStructureString.csproj.CoreCompileInputs.cache
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureString\obj\Debug\DataStructureString.exe
 C:\Users\Abhishek Tomar\source\repos\DataStructureArray\DataStructureString\obj\Debug\DataStructureString.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\bin\Debug\DataStructureString.exe.config
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\bin\Debug\DataStructureString.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\bin\Debug\DataStructureString.pdb
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\obj\Debug\DataStructureString.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\obj\Debug\DataStructureString.exe
+C:\Users\Abhishek Tomar\source\repos\DataStructureArray\TomarAbhishek\DataStructureDemo\DataStructureString\obj\Debug\DataStructureString.pdb
