@@ -29,6 +29,21 @@ namespace DataStructureLinkedList
                 next.AddToEnd(data);
             }
         }
+        public void AddSorted(int data){
+            if(next == null){
+                next= new Node(data);
+            }
+            else if(data< next.data){
+                Node temp=new Node(data);
+                temp.next=this.next;
+                this.next=temp;
+
+            }
+            else{
+                next.AddSorted(data);
+            }               
+        }
+
         /*public void AddtoStart(int data){
             if(next==null){
                 next=new Node(data);
@@ -70,6 +85,19 @@ namespace DataStructureLinkedList
                 headNode=temp;
             }
         }
+
+        public void AddSorted(int data){
+            if(headNode==null){
+                headNode=new Node(data);  
+            }
+            else if(data< headNode.data){
+                AddToStart(data);
+            }
+            else{
+                headNode.AddSorted(data);
+            }
+        }
+
         public void PrintReverse(Node node){
             if(node==null)
                 return ; 
@@ -83,12 +111,18 @@ namespace DataStructureLinkedList
         static void Main(string[] args)
         {
             MyList mynode=new MyList(); 
-            mynode.AddToEnd(11);
+            /*mynode.AddToEnd(11);
             mynode.AddToEnd(12);
             mynode.AddToEnd(22);
             mynode.AddToEnd(13);
             mynode.AddToEnd(14);
-            mynode.AddToStart(3);
+            mynode.AddToStart(3);*/
+            mynode.AddSorted(11);
+            mynode.AddSorted(12);
+            mynode.AddSorted(22);
+            mynode.AddSorted(13);
+            mynode.AddSorted(14);
+            mynode.AddSorted(3);
             mynode.print();
             Console.WriteLine();
             mynode.PrintReverse(mynode.headNode);
