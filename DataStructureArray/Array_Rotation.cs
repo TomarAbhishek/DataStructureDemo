@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DataStructureArray
 {
-
     class Array_Rotation
     {
         public static void Main(string[] args)
@@ -34,6 +33,7 @@ namespace DataStructureArray
             SwapRotation(array, rotation, size);
             for (int i=0;i<size;i++)
             Console.Write(array[i]+ " ");
+            CircularArrayRotation(array, 3);
             Console.ReadLine();
         }
 
@@ -65,6 +65,18 @@ namespace DataStructureArray
                     }
                 }
             }
+        }
+
+        public static void CircularArrayRotation(int [] arr, int rotation)
+        {
+            Console.Write(arr[rotation] +" ");
+            int temp = rotation + 1;
+            while (temp != rotation)
+            {
+                temp = temp % arr.Length;
+                Console.Write(arr[temp]+ " ");
+                temp++;
+            } 
         }
     }
 }

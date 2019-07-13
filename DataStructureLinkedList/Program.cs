@@ -6,42 +6,53 @@ using System.Threading.Tasks;
 
 namespace DataStructureLinkedList
 {
-    public class Node{
+    public class Node
+    {
         public int data;
         public Node next;
 
-        public Node(int d){
-            data=d;
-            next=null;
+        public Node(int d)
+        {
+            data = d;
+            next = null;
 
         }
-        public void printList(){
-            Console.Write("|"+data+"|-> ");
-            if(next!=null){
+        public void printList()
+        {
+            Console.Write("|" + data + "|-> ");
+            if (next != null)
+            {
                 next.printList();
             }
         }
-        public void AddToEnd(int data){
-            if(next==null){
-                next=new Node(data);
+        public void AddToEnd(int data)
+        {
+            if (next == null)
+            {
+                next = new Node(data);
             }
-            else{
+            else
+            {
                 next.AddToEnd(data);
             }
         }
-        public void AddSorted(int data){
-            if(next == null){
-                next= new Node(data);
+        public void AddSorted(int data)
+        {
+            if (next == null)
+            {
+                next = new Node(data);
             }
-            else if(data< next.data){
-                Node temp=new Node(data);
-                temp.next=this.next;
-                this.next=temp;
+            else if (data < next.data)
+            {
+                Node temp = new Node(data);
+                temp.next = this.next;
+                this.next = temp;
 
             }
-            else{
+            else
+            {
                 next.AddSorted(data);
-            }               
+            }
         }
 
         /*public void AddtoStart(int data){
@@ -54,55 +65,70 @@ namespace DataStructureLinkedList
         }*/
     }
 
-    public class MyList{
+    public class MyList
+    {
         public Node headNode;
-        
-        public MyList(){
-            headNode=null;
+
+        public MyList()
+        {
+            headNode = null;
         }
-        public void AddToEnd(int data){
-            if(headNode==null){
-                headNode=new Node(data);
+        public void AddToEnd(int data)
+        {
+            if (headNode == null)
+            {
+                headNode = new Node(data);
             }
-            else{
+            else
+            {
                 headNode.AddToEnd(data);
             }
         }
-        
-        public void print(){
-            if(headNode!=null){
+
+        public void print()
+        {
+            if (headNode != null)
+            {
                 headNode.printList();
             }
         }
 
-        public void AddToStart(int data){
-            if(headNode== null){
-                headNode=new Node(data);
+        public void AddToStart(int data)
+        {
+            if (headNode == null)
+            {
+                headNode = new Node(data);
             }
-            else{
-                Node temp=new Node(data);
-                temp.next=headNode;
-                headNode=temp;
+            else
+            {
+                Node temp = new Node(data);
+                temp.next = headNode;
+                headNode = temp;
             }
         }
 
-        public void AddSorted(int data){
-            if(headNode==null){
-                headNode=new Node(data);  
+        public void AddSorted(int data)
+        {
+            if (headNode == null)
+            {
+                headNode = new Node(data);
             }
-            else if(data< headNode.data){
+            else if (data < headNode.data)
+            {
                 AddToStart(data);
             }
-            else{
+            else
+            {
                 headNode.AddSorted(data);
             }
         }
 
-        public void PrintReverse(Node node){
-            if(node==null)
-                return ; 
+        public void PrintReverse(Node node)
+        {
+            if (node == null)
+                return;
             PrintReverse(node.next);
-            Console.Write("|"+ node.data +"|-> ");
+            Console.Write("|" + node.data + "|-> ");
         }
     }
 
@@ -110,7 +136,7 @@ namespace DataStructureLinkedList
     {
         static void Main(string[] args)
         {
-            MyList mynode=new MyList(); 
+            MyList mynode = new MyList();
             /*mynode.AddToEnd(11);
             mynode.AddToEnd(12);
             mynode.AddToEnd(22);
